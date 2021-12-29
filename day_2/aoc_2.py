@@ -1,5 +1,5 @@
 def get_data():
-    f = open("AOC\day_2\input.txt", "r")
+    f = open("AOC_2021\day_2\input.txt", "r")
     data = f.read().splitlines()
     
     return data
